@@ -1,0 +1,4 @@
+- Add chat option for users to easily communicate
+- Add location access for offline book clubs to carry out the meeting process smoothly
+- Add AI features such as filtering best reponses, book suggestions based on past reads, etc.
+- Add spoiler free character descriptions and images
